@@ -1,2 +1,2 @@
 # PosNegNet
-trying out pos-neg structure on moist
+trying out pos-neg structure on mnist
